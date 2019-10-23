@@ -1,7 +1,7 @@
-# Learning Kafka
+#  Kafka Resources
 
 
-## Dev commands to the MSK cluster
+## MSK AWS Commands
 
 ### List clusters
 
