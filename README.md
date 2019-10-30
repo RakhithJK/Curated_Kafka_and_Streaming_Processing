@@ -1,10 +1,6 @@
 # Curated Resources on Kafka and the Streaming Processing Paradigm
 
 
-```
-Curated Resources.
-```
-
 
 ## Tutorials
 
