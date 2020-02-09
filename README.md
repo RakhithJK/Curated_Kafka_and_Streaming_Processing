@@ -1,4 +1,4 @@
-# Curated Resources on Kafka and the Streaming Processing Paradigm
+# Resources on Kafka and the Streaming Processing
 
 
 
