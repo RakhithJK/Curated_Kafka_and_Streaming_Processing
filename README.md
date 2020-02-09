@@ -27,3 +27,6 @@
 
 * [Making sense of stream processing](http://www.confluent.io/making-sense-of-stream-processing-ebook).
 
+---
+
+<a href="https://www.buymeacoffee.com/miavonpizza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-pink.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
