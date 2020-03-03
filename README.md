@@ -19,7 +19,8 @@
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/).
 * [Netflix tech blog posts on Kafka](http://techblog.netflix.com/search/label/kafka).
 * [Linkedin tech blog posts on Kafka](https://engineering.linkedin.com/blog/topic/kafka).
-* [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181 ).
+* [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181).
+* [Event Streams Essentials](https://blog.reactioncommerce.com/event-streams-essentials/).
 
 
 
